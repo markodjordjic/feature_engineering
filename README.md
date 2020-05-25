@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/markodjordjic/feature_engi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-{% youtubePlayer.html id="page.4EU7vvSvV-0" %}
+{% youTubePlayer.html id="page.4EU7vvSvV-0" %}
 
 
 ### Markdown
