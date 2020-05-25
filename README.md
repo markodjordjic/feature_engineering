@@ -8,6 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
+
 ```markdown
 Syntax highlighted code block
 
@@ -15,7 +18,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 - Bulleted
 - List
